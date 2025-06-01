@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+    color: rgb(255, 0, 34)
+}
+
+h3 {
+    color: blue;
+}
+
+table, th, td {
+    background-color: powderblue;
+    border: 1px solid black;
+}
+
+p{
+    color: green;
+    background-color: azure;
+}
